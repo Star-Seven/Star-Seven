@@ -13,7 +13,7 @@
 
 ## **🧋 Cutie Counter**
 <p align="center">
-	[<img src="https://moe-counter.glitch.me/get/@Star?theme=rule34" alt="Star's cutie counter"/>]
+	<img src="https://moe-counter.glitch.me/get/@Star?theme=rule34" alt="Star's cutie counter"/>
 	<br><br>
 	<code>Hei~ Another cutie has been caught.</code>
 </p>

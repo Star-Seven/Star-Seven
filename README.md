@@ -1,5 +1,5 @@
 ### Hi!👋 I'm Star
-<img align="center" width="80%" src="./images/star.png">
+<img align="center" width="800" src="./images/star.png">
 
 ## **☕ About me**
 

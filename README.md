@@ -3,7 +3,7 @@
 
 ## **☕ About me**
 
-<p>I am Star, a passionate student. I am interested in open source content. I enjoy learning new things and am always willing to accept new opportunities. My hobby is reading，NBA， Sometimes I also manipulate random things, such as coding (which I like to do).</p>
+<p>I am Star, a passionate student. I am interested in open source content. I enjoy learning new things and am always willing to accept new opportunities. My hobby is reading，NBA.</p>
 
 ## **📊 Github Stats**
 <p align="center">
